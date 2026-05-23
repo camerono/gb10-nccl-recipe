@@ -1,0 +1,6 @@
+*.log
+*.deb
+*.swp
+.DS_Store
+container-toolkit-downgrade/
+nccl-build-cache/
